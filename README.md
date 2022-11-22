@@ -5,3 +5,5 @@ https://github.com/ShortWlf/fx-od-pub/
 Informational Resource Links
 
 https://wiki.rage.mp/index.php?title=Vehicles
+
+https://gta-objects.xyz/
