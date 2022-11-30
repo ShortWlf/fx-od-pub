@@ -12,3 +12,5 @@ https://docs.fivem.net/natives/
 
 https://keymaster.fivem.net/
 
+https://docs.fivem.net/docs/game-references/controls/
+
