@@ -10,6 +10,8 @@ https://gta-objects.xyz/
 
 https://docs.fivem.net/natives/
 
+https://docs.fivem.net/docs/game-references/ped-models/
+
 https://keymaster.fivem.net/
 
 https://docs.fivem.net/docs/game-references/controls/
