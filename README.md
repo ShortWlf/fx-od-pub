@@ -12,6 +12,8 @@ https://docs.fivem.net/natives/
 
 https://docs.fivem.net/docs/game-references/ped-models/
 
+https://wiki.rage.mp/index.php?title=Peds
+
 https://keymaster.fivem.net/
 
 https://docs.fivem.net/docs/game-references/controls/
