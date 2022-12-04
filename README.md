@@ -20,4 +20,6 @@ https://docs.fivem.net/docs/game-references/controls/
 
 https://docs.fivem.net/natives/?_0x29439776AAA00A62
 
+https://docs.fivem.net/natives/?_0x5E29243FB56FC6D4
+
 https://github.com/ShortWlf/fx-od-pub/issues/50
