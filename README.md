@@ -4,6 +4,10 @@ https://github.com/ShortWlf/fx-od-pub/
 
 Informational Resource Links
 
+https://docs.fivem.net/docs/scripting-reference/runtimes/lua/client-functions/
+
+https://docs.fivem.net/docs/scripting-reference/runtimes/lua/server-functions/
+
 https://wiki.rage.mp/index.php?title=Vehicles
 
 https://gta-objects.xyz/
